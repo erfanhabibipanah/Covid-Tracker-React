@@ -1,5 +1,3 @@
 # Covid Tracker
 
-Covid Tracker using React.
-
-Live Preview : https://covid-tracker.erfanhabibipanah.vercel.app/
+Covid Tracker using React. [Live Preview](https://covid-tracker.erfanhabibipanah.vercel.app/)
